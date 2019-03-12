@@ -30,6 +30,7 @@
     <BasicUndoVersion>0.9.3</BasicUndoVersion>
     <BenchmarkDotNetVersion>0.11.1</BenchmarkDotNetVersion>
     <CommandLineParserVersion>2.0.273-beta</CommandLineParserVersion>
+    <DotNetFormatVersion>3.0.4-prerelease.19161.3</DotNetFormatVersion>
     <DropAppVersion>17.144.28413-buildid7983345</DropAppVersion>
     <EnvDTEVersion>8.0.2</EnvDTEVersion>
     <EnvDTE80Version>8.0.0</EnvDTE80Version>
@@ -309,6 +310,7 @@
       https://vside.myget.org/F/vs-impl/api/v3/index.json;
       https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json;
       https://dotnet.myget.org/F/system-commandline/api/v3/index.json;
+      https://dotnet.myget.org/F/format/api/v3/index.json;
     </RestoreSources>
   </PropertyGroup>
 </Project>
